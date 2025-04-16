@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/@openai/codex.svg)](https://npmjs.com/@openai/codex)
+
 <h1 align="center">OpenAI Codex CLI</h1>
 <p align="center">Lightweight coding agent that runs in your terminal</p>
 
